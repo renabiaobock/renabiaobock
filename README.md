@@ -26,7 +26,7 @@
 </div>
 
 <br>
-<h4> ✉️ Contact-me </h4>
+<h4> ✉️ Contacts </h4>
 <div>
   <a href = "mailto:rena.biaobock.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ren%C3%A3-biaobock-costa-6036581b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
