@@ -2,11 +2,13 @@
 
 ### 🔍 I’m currently looking for my first job opportunity!
 
-### 🌱 I’m currently learning:
+<br>
 
-<div style="display: inline_block">
 <div>
-
+ 
+### 🌱 I’m currently learning:
+  
+<div style="display: inline_block">
 #### 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -22,10 +24,10 @@
 <div/>
   
 <br>
-<div align="right">
+  
+<div align="right" style="display: inline_block">
   <a href="https://github.com/renabiaobock">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
   
 </div>
