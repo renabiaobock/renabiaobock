@@ -5,7 +5,7 @@ I'm currently graduating in economics. I started to learn to code in 2019 to aut
 
 <h3> 🌱 I’m currently learning </h3>
 
-🌟 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<div>🌟 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;</div>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
