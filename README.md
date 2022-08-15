@@ -25,7 +25,7 @@
   
 <br>
   
-<div align="right" style="display: inline_block">
+<div align="right" style="display: inline_block; width: 40%">
   <a href="https://github.com/renabiaobock">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
 </div>
