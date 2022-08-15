@@ -4,6 +4,8 @@
 
 ### 🌱 I’m currently learning:
 
+<div style="display: inline_block">
+  
 #### 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -18,7 +20,10 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 
 <br>
-<div align="left">
+<div align="right">
   <a href="https://github.com/renabiaobock">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  
 </div>
