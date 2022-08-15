@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Renã
+## 👋 Hi, I'm Renã 😁
 
 ### 🔍 I’m currently looking for my first job opportunity!
 
