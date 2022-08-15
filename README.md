@@ -3,9 +3,9 @@
 <h3> 🔍 I’m currently looking for my first job opportunity! </h3>
 
 <br>
- 
+
 <h3> 🌱 I’m currently learning: </h3>
-  
+
 <div style="display: inline-block">
 
 <h4> 💻 Languages </h4>
@@ -21,10 +21,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
- 
-</div>
 
-<div style="display: inline-block">
-  <a href="https://github.com/renabiaobock">
-  <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
+
+<a href="https://github.com/renabiaobock">
+<img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
