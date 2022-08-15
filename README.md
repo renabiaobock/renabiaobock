@@ -6,7 +6,7 @@
  
 <h3> 🌱 I’m currently learning: </h3>
   
-<div style="display: inline_block">
+<div style="display: inline_block; width: 40%">
 <h4> 💻 Languages </h4>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
