@@ -5,7 +5,7 @@
 ### 🌱 I’m currently learning:
 
 <div style="display: inline_block">
-  
+<div>
 #### 💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -18,7 +18,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-
+<div/>
+  
 <br>
 <div align="right">
   <a href="https://github.com/renabiaobock">
