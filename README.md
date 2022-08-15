@@ -8,7 +8,6 @@
   
 <div style="display: inline-block">
 
-<div>
 <h4> 💻 Languages </h4>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -22,13 +21,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+ 
 </div>
 
 <br>
 
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/renabiaobock">
   <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 </div>
