@@ -6,7 +6,7 @@
 
 <h3> 🌱 I’m currently learning: </h3>
 
-<div style="display: inline-block">
+<div style="display: inline-block; width: 50px">
 
 <h4> 💻 Languages </h4>
 
