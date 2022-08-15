@@ -6,8 +6,6 @@
 
 <h3> 🌱 I’m currently learning: </h3>
 
-<div style="display: inline-block; width: 50px">
-
 <h4> 💻 Languages </h4>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -25,5 +23,3 @@
 
 <a href="https://github.com/renabiaobock">
 <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
-
-</div>
