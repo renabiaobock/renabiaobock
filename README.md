@@ -22,4 +22,4 @@
 
 
 <a href="https://github.com/renabiaobock">
-<img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
+<img height="50%rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
