@@ -1,6 +1,7 @@
 <h2> 👋 Hi, I'm Renã 😁 </h2>
 
-<h3> 🔍 I’m currently looking for my first job opportunity! </h3><br>
+<h3> 🔍 I’m currently looking for my first job opportunity! </h3>
+
 
 <h3> 🌱 I’m currently learning: </h3>
 
