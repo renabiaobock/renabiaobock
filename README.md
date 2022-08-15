@@ -20,6 +20,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
 
-
+<br>
+<div>
 <a href="https://github.com/renabiaobock">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
+</div>
