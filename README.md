@@ -6,7 +6,10 @@
  
 <h3> 🌱 I’m currently learning: </h3>
   
-<div style="display:inline-block; width: 40%">
+<div style="display:inline-block">
+
+<div>
+
 <h4> 💻 Languages </h4>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -25,7 +28,9 @@
   
 <br>
   
-<div style="display:inline-block; width: 40%">
+<div>
   <a href="https://github.com/renabiaobock">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
 </div>
