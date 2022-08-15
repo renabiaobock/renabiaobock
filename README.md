@@ -1,9 +1,9 @@
 <h2> 👋 Hi, I'm Renã 😁 </h2>
 
-<h3> 🔍 I’m currently looking for my first job opportunity! </h3>
+I'm currently graduating in economics. I started to learn to code in 2019 to automate some things in my routine (like trading!), since then I have been learning slowly, but in 2022 I fell in love with coding and decided to change my focus to really learn to code and follow a developer career, and now, <b> I'm looking for my first job oppurtunitie!</b>
 
 
-<h3> 🌱 I’m currently learning: </h3>
+<h3> 🌱 I’m learning: </h3>
 
 <h4> 💻 Languages </h4>
 
