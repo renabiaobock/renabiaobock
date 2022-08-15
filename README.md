@@ -3,7 +3,7 @@
 I'm currently graduating in economics. I started to learn to code in 2019 to automate some things in my routine (like trading!), since then I have been learning slowly, but in 2022 I fell in love with coding and decided to change my focus to really learn to code and follow a developer career, and now, <b> I'm looking for my first job oppurtunitie!</b>
 
 
-<h3> 🌱 I’m learning: </h3>
+<h3> 🌱 I’m currently learning </h3>
 
 <h4> 💻 Languages </h4>
 
@@ -26,7 +26,7 @@ I'm currently graduating in economics. I started to learn to code in 2019 to aut
 </div>
 
 <br>
-<h4> ✉️ Contacts </h4>
+<h4> ✉️ You contact me on: </h4>
 <div>
   <a href = "mailto:rena.biaobock.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ren%C3%A3-biaobock-costa-6036581b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
