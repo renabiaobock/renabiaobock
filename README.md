@@ -3,8 +3,6 @@
 <h3> 🔍 I’m currently looking for my first job opportunity! </h3>
 
 <br>
-
-<div>
  
 <h3> 🌱 I’m currently learning: </h3>
   
@@ -17,17 +15,17 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 <h4> 🔧 Tools </h4>
+ 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-<div/>
+ 
+</div>
   
 <br>
   
 <div align="right" style="display: inline_block">
   <a href="https://github.com/renabiaobock">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renabiaobock&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
 </div>
