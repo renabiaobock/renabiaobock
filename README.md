@@ -1,4 +1,7 @@
 ### Hi 👋, I'm Renã
 
-- 🔭 I’m currently looking for ...
-- 🌱 I’m currently learning ...
+<h1> 🔭 I’m currently looking for my first job opportunity!<h1>
+
+<h1> 🌱 I’m currently learning </h1>
+
+
