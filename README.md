@@ -1,9 +1,5 @@
 <h2> 👋 Hi, I'm Renã 😁 </h2>
 
-I'm currently graduating in economics. I started to learn to code in 2019 to automate some things in my routine (like trading!), since then I have been learning slowly, but in 2022 I fell in love with coding and decided to change my focus to really learn to code and follow a tech career, and now, <b> I'm looking for my first job oppurtunitie!</b>. 
-
-AI, Machine Learning, Automation (...) are changing our world for better, and I want to be part of this revolution!!
-
 <h3> 🌱 I’m currently learning </h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
